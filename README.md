@@ -22,6 +22,6 @@
 <summary>🛠 My Current Projects</summary>
 <p>
 
-- [basic-mathjs](https://github.com/Azusfin/basic-mathjs) - A lightweight math library to deal with some basic maths
+- [basic-jsmath](https://github.com/Azusfin/basic-jsmath) - A lightweight math parsing library to deal with some basic maths
 </p>
 </details>
