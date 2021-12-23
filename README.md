@@ -22,6 +22,7 @@
 <summary>🛠 My Current Projects</summary>
 <p>
 
+- [clpl](https://github.com/Azusfin/clpl) - Chamaelyn Key-Value Pair Language
 - [basic-jsmath](https://github.com/Azusfin/basic-jsmath) - A lightweight math parsing library to deal with some basic maths
 </p>
 </details>
