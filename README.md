@@ -22,7 +22,8 @@
 <summary>🛠 My Current Projects</summary>
 <p>
 
+- [lavacoffee](https://github.com/Azusfin/lavacoffee) - A fast and rich featured [lavalink](https://github.com/freyacodes/lavalink) wrapper
+- [aoi.mongo](https://github.com/Azusfin/aoi.mongo) - A mongodb wrapper for [aoi.js](https://github.com/AkaruiDevelopment/aoi.js)
 - [clpl](https://github.com/Azusfin/clpl) - Chamaelyn Key-Value Pair Language
-- [basic-jsmath](https://github.com/Azusfin/basic-jsmath) - A lightweight math parsing library to deal with some basic maths
 </p>
 </details>
